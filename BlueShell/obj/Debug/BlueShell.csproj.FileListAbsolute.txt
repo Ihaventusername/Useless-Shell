@@ -1,0 +1,11 @@
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.csproj.AssemblyReference.cache
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.Form1.resources
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.Properties.Resources.resources
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.csproj.GenerateResource.cache
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.csproj.CoreCompileInputs.cache
+D:\c#_proj\BlueShell\bin\Debug\BlueShell.exe.config
+D:\c#_proj\BlueShell\bin\Debug\BlueShell.exe
+D:\c#_proj\BlueShell\bin\Debug\BlueShell.pdb
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.exe
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.pdb
+D:\c#_proj\BlueShell\obj\Debug\BlueShell.exe.config
